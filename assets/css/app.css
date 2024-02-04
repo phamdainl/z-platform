@@ -1,0 +1,24 @@
+body { }
+
+.trn500,
+.z-transparent-header { -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease; transition: all 0.5s ease; }
+.cst-bg-transparent,
+.home header#masthead.cst-bg-transparent,
+.home nav#site-navigation.cst-bg-transparent{ background: transparent !important;     }
+.z-transparent-header #site-navigation{
+ /*background:transparent;*/
+}
+
+
+/*.header-logo-navbar.sticky-top.z-transparent-header .nav#site-navigation ul li a
+*/
+
+
+.header-logo-navbar.sticky-top.z-transparent-header #site-navigation ul li a{
+    background: transparent!important;
+   }
+   /*
+.header-logo-navbar.sticky-top.z-transparent-header.site-header #site-navigation ul li a{
+    background: black;
+}
+*/
